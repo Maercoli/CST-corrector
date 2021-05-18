@@ -7,5 +7,5 @@ check it transaction in the file and fix it, but using this simple app you can f
 
 This is how the interface looks like:
 
-![img_interface](img_interface)
+![img_interface](img_interface.jpg)
 
